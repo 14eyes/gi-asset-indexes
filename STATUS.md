@@ -402,7 +402,7 @@
 
 1325 completely unmatched
 
-253747/256150: 99,06%
+253825/256150: 99.09%
 
 ## GenshinImpact_2.6.51_beta.zip_31049740.blk.asset_index.json
 634: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 31579/32574: 96,95%
@@ -416,7 +416,7 @@
 
 1364 completely unmatched
 
-253906/256360: 99,04%
+253984/256360: 99.07%
 
 ## GenshinImpact_2.6.52_beta.zip_31049740.blk.asset_index.json
 634: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 31579/32587: 96,91%
@@ -430,7 +430,7 @@
 
 1381 completely unmatched
 
-253892/256381: 99,03%
+253970/256381: 99.05%
 
 ## GenshinImpact_2.6.53_beta.zip_31049740.blk.asset_index.json
 634: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 31579/32589: 96,90%
@@ -444,7 +444,7 @@
 
 1404 completely unmatched
 
-253883/256401: 99,02%
+253961/256401: 99.04%
 
 ## GenshinImpact_2.6.54_beta.zip_31049740.blk.asset_index.json
 634: Data/_BinOutput/Ability/Temp/ActivityAbilities/ConfigAbility_Activity_Bartender 31579/32595: 96,88%
@@ -458,7 +458,79 @@
 
 1407 completely unmatched
 
-253882/256410: 99,01%
+253960/256410: 99.04%
+
+## GenshinImpact_2.7.0.zip_31049740.blk.asset_index.json
+
+2535 unmatched
+
+253983/256518: 99.01%
+
+## GenshinImpact_2.7.50_beta.zip_31049740.blk.asset_index.json
+
+18455 unmatched
+
+233054/251509: 92.66%
+
+## GenshinImpact_2.7.52_beta.zip_31049740.blk.asset_index.json
+
+20062 unmatched
+
+233063/253125: 92.07%
+
+## GenshinImpact_2.7.53_beta.zip_31049740.blk.asset_index.json
+
+20093 unmatched
+
+233060/253153: 92.06%
+
+## GenshinImpact_2.7.54_beta.zip_31049740.blk.asset_index.json
+
+20101 unmatched
+
+233061/253162: 92.06%
+
+## GenshinImpact_2.8.0.zip_31049740.blk.asset_index.json
+
+20883 unmatched
+
+233054/253937: 91.77%
+
+## GenshinImpact_2.8.50_beta.zip_31049740.blk.asset_index.json
+
+63090 unmatched
+
+233956/297046: 78.76%
+
+## GenshinImpact_2.8.51_beta.zip_31049740.blk.asset_index.json
+
+64110 unmatched
+
+233959/298069: 78.49%
+
+## GenshinImpact_3.0.0.zip_31049740.blk.asset_index.json
+
+64383 unmatched
+
+233950/298333: 78.41%
+
+## GenshinImpact_3.0.50_beta.zip_31049740.blk.asset_index.json
+
+95074 unmatched
+
+233784/328858: 71.08%
+
+## GenshinImpact_3.0.51.1_beta.zip_31049740.blk.asset_index.json
+
+107702 unmatched
+
+233787/341489: 68.46%
+
+## GenshinImpact_3.1.0.zip_31049740.blk.asset_index.json
+
+97269 unmatched
+
+233799/331068: 70.61%
 
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 166: Data/_BinOutput/Ability/Temp/AnimalAbilities/ConfigAbility_Animal_Boar 16455/16456: 99,99%
