@@ -348,6 +348,18 @@
     "Coverage": 83.86011292687263
   },
   {
+    "MappedPath": "mapped/GenshinImpact_2.8.52_beta.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_2.8.52_beta.zip_31049740.blk.asset_index.json",
+    "Version": "2.8.52-beta",
+    "Coverage": 83.86011292687263
+  },
+  {
+    "MappedPath": "mapped/GenshinImpact_2.8.53_beta.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_2.8.53_beta.zip_31049740.blk.asset_index.json",
+    "Version": "2.8.53-beta",
+    "Coverage": 83.86011292687263
+  },
+  {
     "MappedPath": "mapped/GenshinImpact_3.0.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.0.zip_31049740.blk.asset_index.json",
     "Version": "3.0.0",
@@ -360,6 +372,24 @@
     "Coverage": 76.3362910435507
   },
   {
+    "MappedPath": "mapped/GenshinImpact_3.0.51_beta.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_3.0.51_beta.zip_31049740.blk.asset_index.json",
+    "Version": "3.0.51-beta",
+    "Coverage": 76.3362910435507
+  },
+  {
+    "MappedPath": "mapped/GenshinImpact_3.0.52_beta.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_3.0.52_beta.zip_31049740.blk.asset_index.json",
+    "Version": "3.0.52-beta",
+    "Coverage": 76.3362910435507
+  },
+  {
+    "MappedPath": "mapped/GenshinImpact_3.0.53_beta.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_3.0.53_beta.zip_31049740.blk.asset_index.json",
+    "Version": "3.0.53-beta",
+    "Coverage": 76.3362910435507
+  },
+  {
     "MappedPath": "mapped/GenshinImpact_3.1.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.1.0.zip_31049740.blk.asset_index.json",
     "Version": "3.1.0",
@@ -368,7 +398,7 @@
   {
     "MappedPath": "mapped/GenshinImpact_3.0.51.1_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.51.1_beta.zip_31049740.blk.asset_index.json",
-    "Version": "3.0.51.1-beta",
+    "Version": "3.1.50-beta",
     "Coverage": 73.9458664847184
   }
 ]
