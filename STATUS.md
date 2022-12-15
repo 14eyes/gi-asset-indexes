@@ -406,6 +406,18 @@
 
 251259/331068 75.89%
 
+## GenshinImpact_3.2.0.zip_31049740.blk.asset_index.json
+
+90189 unmatched
+
+252534/342723 73.68%
+
+## GenshinImpact_3.3.0.zip_31049740.blk.asset_index.json
+
+102012 unmatched
+
+256308/358320 71.53%
+
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 
 1 unmatched

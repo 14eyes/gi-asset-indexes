@@ -400,5 +400,17 @@
     "RawPath": "raw/GenshinImpact_3.0.51.1_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.1.50-beta",
     "Coverage": 73.9458664847184
+  },
+  {
+    "MappedPath": "mapped/GenshinImpact_3.2.0.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_3.2.0.zip_31049740.blk.asset_index.json",
+    "Version": "3.2.0",
+    "Coverage": 73.68457909156957
+  },
+  {
+    "MappedPath": "mapped/GenshinImpact_3.3.0.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_3.3.0.zip_31049740.blk.asset_index.json",
+    "Version": "3.3.0",
+    "Coverage": 71.5304755525787
   }
 ]
