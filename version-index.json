@@ -351,13 +351,13 @@
     "MappedPath": "mapped/GenshinImpact_2.8.52_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.8.52_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.8.52-beta",
-    "Coverage": 83.86011292687263
+    "Coverage": 83.9278998549401
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.8.53_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.8.53_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.8.53-beta",
-    "Coverage": 83.86011292687263
+    "Coverage": 83.93726011665508
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.0.0.zip_31049740.blk.asset_index.json",
@@ -375,19 +375,19 @@
     "MappedPath": "mapped/GenshinImpact_3.0.51_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.51_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.0.51-beta",
-    "Coverage": 76.3362910435507
+    "Coverage": 75.98587991881256
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.0.52_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.52_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.0.52-beta",
-    "Coverage": 76.3362910435507
+    "Coverage": 75.92031352452206
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.0.53_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.53_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.0.53-beta",
-    "Coverage": 76.3362910435507
+    "Coverage": 75.92107449878378
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.1.0.zip_31049740.blk.asset_index.json",
@@ -408,9 +408,21 @@
     "Coverage": 73.68457909156957
   },
   {
+    "MappedPath": "mapped/GenshinImpact_3.2.50_beta.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_3.2.50_beta.zip_31049740.blk.asset_index.json",
+    "Version": "3.2.50-beta",
+    "Coverage": 71.56906820955162
+  },
+  {
     "MappedPath": "mapped/GenshinImpact_3.3.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.3.0.zip_31049740.blk.asset_index.json",
     "Version": "3.3.0",
     "Coverage": 71.5304755525787
+  },
+  {
+    "MappedPath": "mapped/GenshinImpact_3.3.50_beta.zip_31049740.blk.asset_index.json",
+    "RawPath": "raw/GenshinImpact_3.3.50_beta.zip_31049740.blk.asset_index.json",
+    "Version": "3.3.50-beta",
+    "Coverage": 68.60180868543033
   }
 ]
