@@ -85,9 +85,9 @@
 
 ## game_1.6.50_1.6.51_diff_ekNqVXJyiUSd1GzC.zip_31049740.blk.asset_index.json
 
-357 unmatched
+356 unmatched
 
-167035/167392 99.78%
+167036/167392 99.78%
 
 ## game_2.0.0_2.1.0_diff_kYU5QpgOiPB1woI4.zip_31049740.blk.asset_index.json
 
@@ -145,9 +145,9 @@
 
 ## game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip_31049740.blk.asset_index.json
 
-1057 unmatched
+1007 unmatched
 
-228627/229684 99.53%
+228677/229684 99.56%
 
 ## game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json
 
@@ -241,195 +241,195 @@
 
 ## GenshinImpact_2.5.50_beta.zip_31049740.blk.asset_index.json
 
-1376 unmatched
+1326 unmatched
 
-242855/244231 99.43%
+242905/244231 99.45%
 
 ## GenshinImpact_2.5.51_beta.zip_31049740.blk.asset_index.json
 
-1391 unmatched
+1341 unmatched
 
-243086/244477 99.43%
+243136/244477 99.45%
 
 ## GenshinImpact_2.5.52_beta.zip_31049740.blk.asset_index.json
 
-1397 unmatched
+1347 unmatched
 
-243225/244622 99.42%
+243275/244622 99.44%
 
 ## GenshinImpact_2.5.53_beta.zip_31049740.blk.asset_index.json
 
-1417 unmatched
+1367 unmatched
 
-243481/244898 99.42%
+243531/244898 99.44%
 
 ## GenshinImpact_2.5.54_beta.zip_31049740.blk.asset_index.json
 
-1417 unmatched
+1367 unmatched
 
-243484/244901 99.42%
+243534/244901 99.44%
 
 ## GenshinImpact_2.6.0.zip_31049740.blk.asset_index.json
 
-1419 unmatched
+1369 unmatched
 
-243594/245013 99.42%
+243644/245013 99.44%
 
 ## GenshinImpact_2.6.50_beta.zip_31049740.blk.asset_index.json
 
-1639 unmatched
+1589 unmatched
 
-254511/256150 99.36%
+254561/256150 99.37%
 
 ## GenshinImpact_2.6.51_beta.zip_31049740.blk.asset_index.json
 
-1679 unmatched
+1629 unmatched
 
-254681/256360 99.34%
+254731/256360 99.36%
 
 ## GenshinImpact_2.6.52_beta.zip_31049740.blk.asset_index.json
 
-1699 unmatched
+1649 unmatched
 
-254682/256381 99.33%
+254732/256381 99.35%
 
 ## GenshinImpact_2.6.53_beta.zip_31049740.blk.asset_index.json
 
-1722 unmatched
+1672 unmatched
 
-254679/256401 99.32%
+254729/256401 99.34%
 
 ## GenshinImpact_2.6.54_beta.zip_31049740.blk.asset_index.json
 
-1726 unmatched
+1676 unmatched
 
-254684/256410 99.32%
+254734/256410 99.34%
 
 ## GenshinImpact_2.7.0.zip_31049740.blk.asset_index.json
 
-1759 unmatched
+1709 unmatched
 
-254759/256518 99.31%
+254809/256518 99.33%
 
 ## GenshinImpact_2.7.50_beta.zip_31049740.blk.asset_index.json
 
-14250 unmatched
+14196 unmatched
 
-237259/251509 94.33%
+237313/251509 94.35%
 
 ## GenshinImpact_2.7.52_beta.zip_31049740.blk.asset_index.json
 
-15702 unmatched
+15648 unmatched
 
-237423/253125 93.79%
+237477/253125 93.81%
 
 ## GenshinImpact_2.7.53_beta.zip_31049740.blk.asset_index.json
 
-15717 unmatched
+15663 unmatched
 
-237436/253153 93.79%
+237490/253153 93.81%
 
 ## GenshinImpact_2.7.54_beta.zip_31049740.blk.asset_index.json
 
-15717 unmatched
+15663 unmatched
 
-237445/253162 93.79%
+237499/253162 93.81%
 
 ## GenshinImpact_2.8.0.zip_31049740.blk.asset_index.json
 
-16430 unmatched
+16376 unmatched
 
-237507/253937 93.52%
+237561/253937 93.55%
 
 ## GenshinImpact_2.8.50_beta.zip_31049740.blk.asset_index.json
 
-47246 unmatched
+47182 unmatched
 
-249800/297046 84.09%
+249864/297046 84.11%
 
 ## GenshinImpact_2.8.51_beta.zip_31049740.blk.asset_index.json
 
-48108 unmatched
+48044 unmatched
 
-249961/298069 83.86%
+250025/298069 83.88%
 
 ## GenshinImpact_2.8.52_beta.zip_31049740.blk.asset_index.json
 
-47864 unmatched
+47800 unmatched
 
-249944/297808 83.92%
+250008/297808 83.94%
 
 ## GenshinImpact_2.8.53_beta.zip_31049740.blk.asset_index.json
 
-47835 unmatched
+47771 unmatched
 
-249966/297801 83.93%
+250030/297801 83.95%
 
 ## GenshinImpact_3.0.0.zip_31049740.blk.asset_index.json
 
-48233 unmatched
+48168 unmatched
 
-250100/298333 83.83%
+250165/298333 83.85%
 
 ## GenshinImpact_3.0.50_beta.zip_31049740.blk.asset_index.json
 
-77820 unmatched
+77749 unmatched
 
-251038/328858 76.33%
+251109/328858 76.35%
 
 ## GenshinImpact_3.0.51.1_beta.zip_31049740.blk.asset_index.json
 
-88972 unmatched
+88901 unmatched
 
-252517/341489 73.94%
+252588/341489 73.96%
 
 ## GenshinImpact_3.0.51_beta.zip_31049740.blk.asset_index.json
 
-79389 unmatched
+79318 unmatched
 
-251204/330593 75.98%
+251275/330593 76.00%
 
 ## GenshinImpact_3.0.52_beta.zip_31049740.blk.asset_index.json
 
-79691 unmatched
+79620 unmatched
 
-251256/330947 75.92%
+251327/330947 75.94%
 
 ## GenshinImpact_3.0.53_beta.zip_31049740.blk.asset_index.json
 
-79688 unmatched
+79617 unmatched
 
-251257/330945 75.92%
+251328/330945 75.94%
 
 ## GenshinImpact_3.1.0.zip_31049740.blk.asset_index.json
 
-79809 unmatched
+79738 unmatched
 
-251259/331068 75.89%
+251330/331068 75.91%
 
 ## GenshinImpact_3.2.0.zip_31049740.blk.asset_index.json
 
-90189 unmatched
+90118 unmatched
 
-252534/342723 73.68%
+252605/342723 73.70%
 
 ## GenshinImpact_3.2.50_beta.zip_31049740.blk.asset_index.json
 
-101816 unmatched
+101740 unmatched
 
-256301/358117 71.56%
+256377/358117 71.59%
 
 ## GenshinImpact_3.3.0.zip_31049740.blk.asset_index.json
 
-102012 unmatched
+101936 unmatched
 
-256308/358320 71.53%
+256384/358320 71.55%
 
 ## GenshinImpact_3.3.50_beta.zip_31049740.blk.asset_index.json
 
-117525 unmatched
+117430 unmatched
 
-256780/374305 68.60%
+256875/374305 68.62%
 
 ## GenshinImpact_beta_1.4.53.zip_31049740.blk.asset_index.json
 
@@ -454,6 +454,24 @@
 0 unmatched
 
 142447/142447 100%
+
+## Genshin_0.7.0.zip_asset_index.json
+
+0 unmatched
+
+121491/121491 100%
+
+## Genshin_0.7.1.zip_asset_index.json
+
+0 unmatched
+
+121944/121944 100%
+
+## YuanShen_0.9.0.zip_asset_index.json
+
+0 unmatched
+
+68690/68690 100%
 
 ## YuanShen_1.4.0.zip_31049740.blk.asset_index.json
 
