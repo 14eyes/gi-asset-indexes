@@ -147,313 +147,313 @@
     "MappedPath": "mapped/game_1.6.50_1.6.51_diff_ekNqVXJyiUSd1GzC.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_1.6.50_1.6.51_diff_ekNqVXJyiUSd1GzC.zip_31049740.blk.asset_index.json",
     "Version": "1.6.51-beta",
-    "Coverage": 99.84407857006309
+    "Coverage": 99.84467597017779
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.0.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.0.0.zip_31049740.blk.asset_index.json",
     "Version": "2.0.0",
-    "Coverage": 99.92309603530484
+    "Coverage": 99.92368760426403
   },
   {
     "MappedPath": "mapped/game_2.0.50_2.0.51_diff_1iMPRcIZzJf4y7js.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_2.0.50_2.0.51_diff_1iMPRcIZzJf4y7js.zip_31049740.blk.asset_index.json",
     "Version": "2.0.51-beta",
-    "Coverage": 99.9142123411675
+    "Coverage": 99.92423947012195
   },
   {
     "MappedPath": "mapped/game_2.0.51_2.0.52_diff_FXCjpYt31ShLgEoA.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_2.0.51_2.0.52_diff_FXCjpYt31ShLgEoA.zip_31049740.blk.asset_index.json",
     "Version": "2.0.52-beta",
-    "Coverage": 99.91658518530795
+    "Coverage": 99.92652867315202
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.1.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.1.0.zip_31049740.blk.asset_index.json",
     "Version": "2.1.0",
-    "Coverage": 99.9183448275862
+    "Coverage": 99.92827586206896
   },
   {
     "MappedPath": "mapped/Yuanshen_2.1.0beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/Yuanshen_2.1.0beta.zip_31049740.blk.asset_index.json",
     "Version": "2.1.0-beta",
-    "Coverage": 99.90981251085331
+    "Coverage": 99.91989558417406
   },
   {
     "MappedPath": "mapped/game_2.1.50_2.1.51_diff_KMTdD3HWgoJVFfN7.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_2.1.50_2.1.51_diff_KMTdD3HWgoJVFfN7.zip_31049740.blk.asset_index.json",
     "Version": "2.1.51-beta",
-    "Coverage": 99.81787004342709
+    "Coverage": 99.8300458622509
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.2.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.2.0.zip_31049740.blk.asset_index.json",
     "Version": "2.2.0",
-    "Coverage": 99.86337804282553
+    "Coverage": 99.8758454457616
   },
   {
     "MappedPath": "mapped/YuanShen_2.2.0beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/YuanShen_2.2.0beta.zip_31049740.blk.asset_index.json",
     "Version": "2.2.0-beta",
-    "Coverage": 99.70827403943892
+    "Coverage": 99.72047164057736
   },
   {
     "MappedPath": "mapped/YuanShen_2.2.1beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/YuanShen_2.2.1beta.zip_31049740.blk.asset_index.json",
     "Version": "2.2.1-beta",
-    "Coverage": 99.81787004342709
+    "Coverage": 99.8300458622509
   },
   {
     "MappedPath": "mapped/YuanShen_2.2.3beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/YuanShen_2.2.3beta.zip_31049740.blk.asset_index.json",
     "Version": "2.2.3-beta",
-    "Coverage": 99.86335816785645
+    "Coverage": 99.8758273844779
   },
   {
     "MappedPath": "mapped/YuanShen_2.2.4beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/YuanShen_2.2.4beta.zip_31049740.blk.asset_index.json",
     "Version": "2.2.4-beta",
-    "Coverage": 99.86337023549153
+    "Coverage": 99.87583835088394
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.3.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.3.0.zip_31049740.blk.asset_index.json",
     "Version": "2.3.0",
-    "Coverage": 99.83438124531209
+    "Coverage": 99.84696625706648
   },
   {
     "MappedPath": "mapped/YuanShen_2.3.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/YuanShen_2.3.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.3.50-beta",
-    "Coverage": 99.78311704539368
+    "Coverage": 99.7991824494386
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.4.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.4.0.zip_31049740.blk.asset_index.json",
     "Version": "2.4.0",
-    "Coverage": 99.84175355150244
+    "Coverage": 99.85803032906219
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.4.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.4.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.4.50-beta",
-    "Coverage": 99.79588797491087
+    "Coverage": 99.81866442406245
   },
   {
     "MappedPath": "mapped/game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_2.4.50_2.4.51_diff_8SAGXYIPrw1xUMDB.zip_31049740.blk.asset_index.json",
     "Version": "2.4.51-beta",
-    "Coverage": 99.79431072210065
+    "Coverage": 99.81706783369802
   },
   {
     "MappedPath": "mapped/game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip_31049740.blk.asset_index.json",
     "Version": "2.5.0",
-    "Coverage": 99.78927570052768
+    "Coverage": 99.8127862628655
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.5.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.5.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.50-beta",
-    "Coverage": 99.73754355507695
+    "Coverage": 99.76415770315808
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.5.51_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.5.51_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.51-beta",
-    "Coverage": 99.7341263186312
+    "Coverage": 99.76112272320096
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.5.52_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.5.52_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.52-beta",
-    "Coverage": 99.73387512161621
+    "Coverage": 99.760855524033
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.5.53_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.5.53_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.53-beta",
-    "Coverage": 99.72845837859026
+    "Coverage": 99.75540837409861
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.5.54_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.5.54_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.5.54-beta",
-    "Coverage": 99.72846170493384
+    "Coverage": 99.75541137030882
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.6.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.6.0.zip_31049740.blk.asset_index.json",
     "Version": "2.6.0",
-    "Coverage": 99.72858583013962
+    "Coverage": 99.75552317632126
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.6.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.6.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.6.50-beta",
-    "Coverage": 99.72320905719305
+    "Coverage": 99.75287917235994
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.6.51_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.6.51_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.6.51-beta",
-    "Coverage": 99.71758464659072
+    "Coverage": 99.7472304571696
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.6.52_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.6.52_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.6.52-beta",
-    "Coverage": 99.7176077790476
+    "Coverage": 99.74842129486974
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.6.53_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.6.53_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.6.53-beta",
-    "Coverage": 99.71489970787945
+    "Coverage": 99.74805090463765
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.6.54_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.6.54_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.6.54-beta",
-    "Coverage": 99.71490971490972
+    "Coverage": 99.74805974805975
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.7.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.7.0.zip_31049740.blk.asset_index.json",
     "Version": "2.7.0",
-    "Coverage": 99.7142500721197
+    "Coverage": 99.74738614834047
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.7.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.7.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.7.50-beta",
-    "Coverage": 97.15358098517349
+    "Coverage": 97.94758835667908
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.7.52_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.7.52_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.7.52-beta",
-    "Coverage": 97.09866666666667
+    "Coverage": 97.89155555555556
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.7.53_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.7.53_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.7.53-beta",
-    "Coverage": 97.0978025146848
+    "Coverage": 97.89060370605918
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.7.54_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.7.54_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.7.54-beta",
-    "Coverage": 97.098300692837
+    "Coverage": 97.89107369984437
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.8.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.8.0.zip_31049740.blk.asset_index.json",
     "Version": "2.8.0",
-    "Coverage": 97.07709630936165
+    "Coverage": 97.8676661653425
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.8.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.8.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.8.50-beta",
-    "Coverage": 94.09754718124465
+    "Coverage": 96.51097809766837
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.8.51_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.8.51_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.8.51-beta",
-    "Coverage": 94.15034773827536
+    "Coverage": 96.58367693386431
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.8.52_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.8.52_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.8.52-beta",
-    "Coverage": 94.33460484607532
+    "Coverage": 96.92889378391448
   },
   {
     "MappedPath": "mapped/GenshinImpact_2.8.53_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_2.8.53_beta.zip_31049740.blk.asset_index.json",
     "Version": "2.8.53-beta",
-    "Coverage": 94.38887042017991
+    "Coverage": 97.16085573923526
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.0.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.0.zip_31049740.blk.asset_index.json",
     "Version": "3.0.0",
-    "Coverage": 94.40195717014646
+    "Coverage": 97.17249237574985
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.0.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.0.50-beta",
-    "Coverage": 89.73234648389274
+    "Coverage": 93.26669869670192
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.0.51_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.51_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.0.51-beta",
-    "Coverage": 89.81527134573327
+    "Coverage": 93.37191047602339
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.0.52_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.52_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.0.52-beta",
-    "Coverage": 89.83794988321392
+    "Coverage": 93.43278531003453
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.0.53_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.53_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.0.53-beta",
-    "Coverage": 89.84514043118948
+    "Coverage": 93.43999758267991
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.1.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.1.0.zip_31049740.blk.asset_index.json",
     "Version": "3.1.0",
-    "Coverage": 89.84975462438656
+    "Coverage": 93.44295960739902
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.0.51.1_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.0.51.1_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.1.50-beta",
-    "Coverage": 89.53963378029746
+    "Coverage": 93.30373745567208
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.2.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.2.0.zip_31049740.blk.asset_index.json",
     "Version": "3.2.0",
-    "Coverage": 89.58340626640994
+    "Coverage": 93.35492152400957
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.2.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.2.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.2.50-beta",
-    "Coverage": 89.36241507663696
+    "Coverage": 93.37171929844158
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.3.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.3.0.zip_31049740.blk.asset_index.json",
     "Version": "3.3.0",
-    "Coverage": 89.42845104457038
+    "Coverage": 93.44600797484213
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.3.50_beta.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.3.50_beta.zip_31049740.blk.asset_index.json",
     "Version": "3.3.50-beta",
-    "Coverage": 88.34105876223936
+    "Coverage": 92.82697265598911
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.4.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.4.0.zip_31049740.blk.asset_index.json",
     "Version": "3.4.0",
-    "Coverage": 88.37118256316565
+    "Coverage": 92.84171502685888
   },
   {
     "MappedPath": "mapped/GenshinImpact_3.5.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.5.0.zip_31049740.blk.asset_index.json",
     "Version": "3.5.0",
-    "Coverage": 89.8399779454352,
+    "Coverage": 93.66057721247499,
     "MappedParts": [
       "mapped/GenshinImpact_3.5.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_3.5.0.zip_31049740.blk.asset_index.json.002"
@@ -463,7 +463,7 @@
     "MappedPath": "mapped/GenshinImpact_3.6.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.6.0.zip_31049740.blk.asset_index.json",
     "Version": "3.6.0",
-    "Coverage": 89.47460738519501,
+    "Coverage": 93.5117640274494,
     "MappedParts": [
       "mapped/GenshinImpact_3.6.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_3.6.0.zip_31049740.blk.asset_index.json.002"
@@ -473,7 +473,7 @@
     "MappedPath": "mapped/GenshinImpact_3.7.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.7.0.zip_31049740.blk.asset_index.json",
     "Version": "3.7.0",
-    "Coverage": 88.48787598828221,
+    "Coverage": 92.69843406886754,
     "MappedParts": [
       "mapped/GenshinImpact_3.7.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_3.7.0.zip_31049740.blk.asset_index.json.002"
@@ -483,7 +483,7 @@
     "MappedPath": "mapped/GenshinImpact_3.8.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_3.8.0.zip_31049740.blk.asset_index.json",
     "Version": "3.8.0",
-    "Coverage": 91.27021565714527,
+    "Coverage": 95.5460427653118,
     "MappedParts": [
       "mapped/GenshinImpact_3.8.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_3.8.0.zip_31049740.blk.asset_index.json.002"
@@ -493,7 +493,7 @@
     "MappedPath": "mapped/GenshinImpact_4.0.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_4.0.0.zip_31049740.blk.asset_index.json",
     "Version": "4.0.0",
-    "Coverage": 74.73994431758801,
+    "Coverage": 78.03199470395406,
     "MappedParts": [
       "mapped/GenshinImpact_4.0.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_4.0.0.zip_31049740.blk.asset_index.json.002"
@@ -507,7 +507,7 @@
     "MappedPath": "mapped/GenshinImpact_4.1.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_4.1.0.zip_31049740.blk.asset_index.json",
     "Version": "4.1.0",
-    "Coverage": 72.68884203950964,
+    "Coverage": 75.88100257671586,
     "MappedParts": [
       "mapped/GenshinImpact_4.1.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_4.1.0.zip_31049740.blk.asset_index.json.002"
@@ -521,7 +521,7 @@
     "MappedPath": "mapped/GenshinImpact_4.2.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_4.2.0.zip_31049740.blk.asset_index.json",
     "Version": "4.2.0",
-    "Coverage": 70.57687673036568,
+    "Coverage": 73.57691199896546,
     "MappedParts": [
       "mapped/GenshinImpact_4.2.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_4.2.0.zip_31049740.blk.asset_index.json.002"
@@ -535,7 +535,7 @@
     "MappedPath": "mapped/GenshinImpact_4.3.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_4.3.0.zip_31049740.blk.asset_index.json",
     "Version": "4.3.0",
-    "Coverage": 70.17878894379447,
+    "Coverage": 72.5901178423377,
     "MappedParts": [
       "mapped/GenshinImpact_4.3.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_4.3.0.zip_31049740.blk.asset_index.json.002"
@@ -549,7 +549,7 @@
     "MappedPath": "mapped/GenshinImpact_4.4.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_4.4.0.zip_31049740.blk.asset_index.json",
     "Version": "4.4.0",
-    "Coverage": 69.32320425324845,
+    "Coverage": 71.64916598634531,
     "MappedParts": [
       "mapped/GenshinImpact_4.4.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_4.4.0.zip_31049740.blk.asset_index.json.002",
@@ -564,7 +564,7 @@
     "MappedPath": "mapped/GenshinImpact_4.5.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_4.5.0.zip_31049740.blk.asset_index.json",
     "Version": "4.5.0",
-    "Coverage": 69.76552465089314,
+    "Coverage": 72.06453723230265,
     "MappedParts": [
       "mapped/GenshinImpact_4.5.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_4.5.0.zip_31049740.blk.asset_index.json.002"
@@ -578,7 +578,7 @@
     "MappedPath": "mapped/GenshinImpact_4.6.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_4.6.0.zip_31049740.blk.asset_index.json",
     "Version": "4.6.0",
-    "Coverage": 96.09929078014184,
+    "Coverage": 98.35478723404255,
     "MappedParts": [
       "mapped/GenshinImpact_4.6.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_4.6.0.zip_31049740.blk.asset_index.json.002"
@@ -592,7 +592,7 @@
     "MappedPath": "mapped/GenshinImpact_4.7.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_4.7.0.zip_31049740.blk.asset_index.json",
     "Version": "4.7.0",
-    "Coverage": 96.14028660108806,
+    "Coverage": 98.37983285059553,
     "MappedParts": [
       "mapped/GenshinImpact_4.7.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_4.7.0.zip_31049740.blk.asset_index.json.002"
@@ -606,7 +606,7 @@
     "MappedPath": "mapped/GenshinImpact_4.8.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_4.8.0.zip_31049740.blk.asset_index.json",
     "Version": "4.8.0",
-    "Coverage": 94.96700772046056,
+    "Coverage": 97.32956215104319,
     "MappedParts": [
       "mapped/GenshinImpact_4.8.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_4.8.0.zip_31049740.blk.asset_index.json.002"
@@ -620,7 +620,7 @@
     "MappedPath": "mapped/GenshinImpact_5.0.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_5.0.0.zip_31049740.blk.asset_index.json",
     "Version": "5.0.0",
-    "Coverage": 95.69558170407728,
+    "Coverage": 98.27467595575308,
     "MappedParts": [
       "mapped/GenshinImpact_5.0.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_5.0.0.zip_31049740.blk.asset_index.json.002"
@@ -634,7 +634,7 @@
     "MappedPath": "mapped/GenshinImpact_5.1.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_5.1.0.zip_31049740.blk.asset_index.json",
     "Version": "5.1.0",
-    "Coverage": 95.69465476566276,
+    "Coverage": 98.27462893237137,
     "MappedParts": [
       "mapped/GenshinImpact_5.1.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_5.1.0.zip_31049740.blk.asset_index.json.002"
@@ -648,7 +648,7 @@
     "MappedPath": "mapped/GenshinImpact_5.2.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_5.2.0.zip_31049740.blk.asset_index.json",
     "Version": "5.2.0",
-    "Coverage": 95.9765046606797,
+    "Coverage": 98.44668713047679,
     "MappedParts": [
       "mapped/GenshinImpact_5.2.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_5.2.0.zip_31049740.blk.asset_index.json.002"
@@ -662,7 +662,7 @@
     "MappedPath": "mapped/GenshinImpact_5.3.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_5.3.0.zip_31049740.blk.asset_index.json",
     "Version": "5.3.0",
-    "Coverage": 96.06962380685007,
+    "Coverage": 98.44829323773737,
     "MappedParts": [
       "mapped/GenshinImpact_5.3.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_5.3.0.zip_31049740.blk.asset_index.json.002"
@@ -676,7 +676,7 @@
     "MappedPath": "mapped/GenshinImpact_5.4.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_5.4.0.zip_31049740.blk.asset_index.json",
     "Version": "5.4.0",
-    "Coverage": 95.98355022124271,
+    "Coverage": 98.37845283468994,
     "MappedParts": [
       "mapped/GenshinImpact_5.4.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_5.4.0.zip_31049740.blk.asset_index.json.002"
@@ -690,7 +690,7 @@
     "MappedPath": "mapped/GenshinImpact_5.5.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_5.5.0.zip_31049740.blk.asset_index.json",
     "Version": "5.5.0",
-    "Coverage": 96.19991767383142,
+    "Coverage": 98.42768031564789,
     "MappedParts": [
       "mapped/GenshinImpact_5.5.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_5.5.0.zip_31049740.blk.asset_index.json.002",
@@ -705,7 +705,7 @@
     "MappedPath": "mapped/GenshinImpact_5.6.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_5.6.0.zip_31049740.blk.asset_index.json",
     "Version": "5.6.0",
-    "Coverage": 97.87529635614081,
+    "Coverage": 98.43375693785684,
     "MappedParts": [
       "mapped/GenshinImpact_5.6.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_5.6.0.zip_31049740.blk.asset_index.json.002",
@@ -720,7 +720,7 @@
     "MappedPath": "mapped/GenshinImpact_5.7.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_5.7.0.zip_31049740.blk.asset_index.json",
     "Version": "5.7.0",
-    "Coverage": 97.87972212279959,
+    "Coverage": 98.4209427434137,
     "MappedParts": [
       "mapped/GenshinImpact_5.7.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_5.7.0.zip_31049740.blk.asset_index.json.002",
@@ -735,7 +735,7 @@
     "MappedPath": "mapped/GenshinImpact_5.8.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_5.8.0.zip_31049740.blk.asset_index.json",
     "Version": "5.8.0",
-    "Coverage": 97.93937796383244,
+    "Coverage": 98.47427060687282,
     "MappedParts": [
       "mapped/GenshinImpact_5.8.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_5.8.0.zip_31049740.blk.asset_index.json.002",
@@ -750,7 +750,7 @@
     "MappedPath": "mapped/GenshinImpact_6.0.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_6.0.0.zip_31049740.blk.asset_index.json",
     "Version": "6.0.0",
-    "Coverage": 97.82938499241452,
+    "Coverage": 98.40956692115398,
     "MappedParts": [
       "mapped/GenshinImpact_6.0.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_6.0.0.zip_31049740.blk.asset_index.json.002",
@@ -765,7 +765,7 @@
     "MappedPath": "mapped/GenshinImpact_6.1.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_6.1.0.zip_31049740.blk.asset_index.json",
     "Version": "6.1.0",
-    "Coverage": 97.36175124648356,
+    "Coverage": 98.21225165446621,
     "MappedParts": [
       "mapped/GenshinImpact_6.1.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_6.1.0.zip_31049740.blk.asset_index.json.002",
@@ -780,7 +780,7 @@
     "MappedPath": "mapped/GenshinImpact_6.2.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_6.2.0.zip_31049740.blk.asset_index.json",
     "Version": "6.2.0",
-    "Coverage": 97.38526374393633,
+    "Coverage": 98.2185476400177,
     "MappedParts": [
       "mapped/GenshinImpact_6.2.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_6.2.0.zip_31049740.blk.asset_index.json.002",
@@ -795,7 +795,7 @@
     "MappedPath": "mapped/GenshinImpact_6.3.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_6.3.0.zip_31049740.blk.asset_index.json",
     "Version": "6.3.0",
-    "Coverage": 97.30366122533208,
+    "Coverage": 98.14723100148794,
     "MappedParts": [
       "mapped/GenshinImpact_6.3.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_6.3.0.zip_31049740.blk.asset_index.json.002",
@@ -810,7 +810,7 @@
     "MappedPath": "mapped/GenshinImpact_6.4.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_6.4.0.zip_31049740.blk.asset_index.json",
     "Version": "6.4.0",
-    "Coverage": 97.49122060515705,
+    "Coverage": 98.33615404385378,
     "MappedParts": [
       "mapped/GenshinImpact_6.4.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_6.4.0.zip_31049740.blk.asset_index.json.002",
@@ -825,7 +825,7 @@
     "MappedPath": "mapped/GenshinImpact_6.5.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_6.5.0.zip_31049740.blk.asset_index.json",
     "Version": "6.5.0",
-    "Coverage": 97.45005706295431,
+    "Coverage": 98.28821418657016,
     "MappedParts": [
       "mapped/GenshinImpact_6.5.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_6.5.0.zip_31049740.blk.asset_index.json.002",
@@ -840,7 +840,7 @@
     "MappedPath": "mapped/GenshinImpact_6.6.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_6.6.0.zip_31049740.blk.asset_index.json",
     "Version": "6.6.0",
-    "Coverage": 97.57040813052477,
+    "Coverage": 98.40834710346044,
     "MappedParts": [
       "mapped/GenshinImpact_6.6.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_6.6.0.zip_31049740.blk.asset_index.json.002",
@@ -855,11 +855,12 @@
     "MappedPath": "mapped/GenshinImpact_6.7.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_6.7.0.zip_31049740.blk.asset_index.json",
     "Version": "6.7.0",
-    "Coverage": 97.61544176477311,
+    "Coverage": 98.4216291385682,
     "MappedParts": [
       "mapped/GenshinImpact_6.7.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_6.7.0.zip_31049740.blk.asset_index.json.002",
-      "mapped/GenshinImpact_6.7.0.zip_31049740.blk.asset_index.json.003"
+      "mapped/GenshinImpact_6.7.0.zip_31049740.blk.asset_index.json.003",
+      "mapped/GenshinImpact_6.7.0.zip_31049740.blk.asset_index.json.004"
     ],
     "RawParts": [
       "raw/GenshinImpact_6.7.0.zip_31049740.blk.asset_index.json.001",
@@ -871,7 +872,7 @@
     "MappedPath": "mapped/GenshinImpact_7.0.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_7.0.0.zip_31049740.blk.asset_index.json",
     "Version": "7.0.0",
-    "Coverage": 97.56453821666021,
+    "Coverage": 98.37993668944284,
     "MappedParts": [
       "mapped/GenshinImpact_7.0.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_7.0.0.zip_31049740.blk.asset_index.json.002",
@@ -888,7 +889,7 @@
     "MappedPath": "mapped/GenshinImpact_7.1.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_7.1.0.zip_31049740.blk.asset_index.json",
     "Version": "7.1.0",
-    "Coverage": 97.56107581907204,
+    "Coverage": 98.36198705009936,
     "MappedParts": [
       "mapped/GenshinImpact_7.1.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_7.1.0.zip_31049740.blk.asset_index.json.002",
@@ -905,7 +906,7 @@
     "MappedPath": "mapped/GenshinImpact_7.2.0.zip_31049740.blk.asset_index.json",
     "RawPath": "raw/GenshinImpact_7.2.0.zip_31049740.blk.asset_index.json",
     "Version": "7.2.0",
-    "Coverage": 97.55878196068353,
+    "Coverage": 98.3618987401692,
     "MappedParts": [
       "mapped/GenshinImpact_7.2.0.zip_31049740.blk.asset_index.json.001",
       "mapped/GenshinImpact_7.2.0.zip_31049740.blk.asset_index.json.002",
